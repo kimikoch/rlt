@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/workspaces/rlt/target/x86_64-unknown-linux-gnu/release/build/typenum-6140d0c9513e9b52/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/workspaces/rlt/target/x86_64-unknown-linux-gnu/release/build/typenum-6140d0c9513e9b52/out/op.rs
